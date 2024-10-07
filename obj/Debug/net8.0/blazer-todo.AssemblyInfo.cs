@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blazer-todo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf8b23de677d6bae39ff961624427cc2bfad5f9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74cdc7025198321497d69d4bc4dd3d739380724")]
 [assembly: System.Reflection.AssemblyProductAttribute("blazer-todo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blazer-todo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
