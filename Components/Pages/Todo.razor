@@ -1,7 +1,7 @@
 ﻿@page "/todo"
 @rendermode InteractiveServer
 
-<h3>Todo</h3>
+<h3>Todo <span>(@todos.Count(todo => !todo.IsDone))</span></h3>
 
 <input @bind="newTodo" />
 <button @onclick="AddTodo">Add todo</button>
