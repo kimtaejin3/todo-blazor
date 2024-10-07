@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kimtaejin/dev/blazer/blazer-todo/obj/Debug/net8.0/scopedcss/projectbundle/blazer-todo.bundle.scp.css",
+      "PackagePath": "staticwebassets/blazer-todo.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kimtaejin/dev/blazer/blazer-todo/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/kimtaejin/dev/blazer/blazer-todo/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kimtaejin/dev/blazer/blazer-todo/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/kimtaejin/dev/blazer/blazer-todo/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.blazer-todo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.blazer-todo.props",
+      "PackagePath": "build\\blazer-todo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.blazer-todo.props",
+      "PackagePath": "buildMultiTargeting\\blazer-todo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.blazer-todo.props",
+      "PackagePath": "buildTransitive\\blazer-todo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
